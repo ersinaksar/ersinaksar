@@ -9,8 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersinaksar&layout=compact&theme=tokyonight)](https://github.com/ersinaksar/github-readme-stats)
 
-My NFT mint website
-
+You can check my NFT mint site.
 http://metadonnee.info/
 <!--
 **ersinaksar/ersinaksar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
