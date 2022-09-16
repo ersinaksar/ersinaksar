@@ -42,6 +42,12 @@ http://metadonnee.info/
     </td>
     <td align="center" width="96">
       <a href="#ersinaksar-tech">
+        <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF1e9hb-N_bXA/company-logo_200_200/0/1652722609629?e=2147483647&v=beta&t=TXvt6hFEPWKtpmUnYkbMR8KpukKBck4OrfOK8KkLYnc" width="48" height="48" alt="Moralis" />
+      </a>
+      <br>Moralis
+    </td>
+    <td align="center" width="96">
+      <a href="#ersinaksar-tech">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsf10q0p26N1sAm_aDD7emQJ3mST4i3Hzsbh7Y-dr&s" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
@@ -84,8 +90,56 @@ http://metadonnee.info/
         </a>
         <br>JavaScript
       </td>
+      <td align="center" width="96">
+        <a href="#ersinaksar-tech">
+          <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+        </a>
+        <br>Bash
+      </td>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#ersinaksar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#ersinaksar-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#ersinaksar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#ersinaksar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Raspberry_Pi_Logo.svg/100px-Raspberry_Pi_Logo.svg.png" width="48" height="48" alt="RaspberryPi" />
+      </a>
+      <br>RaspberryPi
+    </td>
+    <td align="center" width="96">
+      <a href="#ersinaksar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/100px-Arduino_Logo.svg.png" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+        <a href="#ersinaksar-tech">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+        </a>
+        <br>Tensorflow
+      </td>   
+    
+    
+    
+  </tr>
+  
 </table>
 
 [linkedin]: https://www.linkedin.com/in/ersinaksar "LinkedIn"
