@@ -2,6 +2,8 @@
 
 You can check my NFT mint site.
 http://metadonnee.info/
+https://jurassicfriendsnft.netlify.app/
+https://jurassicfriendsnft.com/
 
 
 <!--
