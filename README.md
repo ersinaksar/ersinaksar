@@ -19,7 +19,12 @@ You can check my NFT mint site.
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersinaksar&layout=compact&theme=tokyonight)](https://github.com/ersinaksar/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Learning-Rust&layout=compact&theme=tokyonight)](
+https://github.com/ersinaksar/Learning-Rust)
 
 
 <table align="center">
@@ -145,6 +150,8 @@ You can check my NFT mint site.
 </table>
 
 [linkedin]: https://www.linkedin.com/in/ersinaksar "LinkedIn"
+
+
 
 
 <!--
