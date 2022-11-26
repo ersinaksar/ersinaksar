@@ -17,6 +17,7 @@ You can check my NFT mint site.
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** **Python** **Flutter** **SmartContracts** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :coffee: support me https://www.buymeacoffee.com/ersinaksar
 
 
 
