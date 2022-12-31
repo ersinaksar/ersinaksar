@@ -27,6 +27,9 @@ You can check my NFT mint site.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Learning-Rust&layout=compact&theme=tokyonight)](
 https://github.com/ersinaksar/Learning-Rust)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Make-Your-Jarvis-usin-GPT-3-and-Python&layout=compact&theme=tokyonight)](
+https://github.com/ersinaksar/Make-Your-Jarvis-usin-GPT-3-and-Python)
+
 
 <table align="center">
   <tr>
