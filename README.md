@@ -17,7 +17,8 @@ You can check my NFT mint site.
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** **Python** **Flutter** **SmartContracts** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :coffee: support me https://www.buymeacoffee.com/ersinaksar
+- 📔 You can reach the **[Medium]** articles here
+- :coffee: support me **[buymeacoffee]** 
 
 
 
@@ -154,6 +155,11 @@ https://github.com/ersinaksar/Make-Your-Jarvis-usin-GPT-3-and-Python)
 </table>
 
 [linkedin]: https://www.linkedin.com/in/ersinaksar "LinkedIn"
+[buymeacoffee]: https://www.buymeacoffee.com/ersinaksar "buymeacoffee"
+[Medium]: https://medium.com/@ersinaksar "Medium"
+
+
+
 
 
 
