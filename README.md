@@ -156,7 +156,7 @@ https://github.com/ersinaksar/Make-Your-Jarvis-usin-GPT-3-and-Python)
   
 </table>
 
-[linkedin]: https://www.linkedin.com/in/ersinaksar "LinkedIn"
+[linkedin]: https://www.linkedin.com/ersinaksar "LinkedIn"
 [buymeacoffee]: https://www.buymeacoffee.com/ersinaksar "buymeacoffee"
 [Medium]: https://medium.com/@ersinaksar "Medium"
 
