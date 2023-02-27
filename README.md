@@ -20,6 +20,7 @@ You can check my NFT mint site.
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📔 You can reach the **[Medium]** articles here
+- :beer: support me **[Patreon]**
 - :coffee: support me **[buymeacoffee]** 
 
 
@@ -159,7 +160,7 @@ https://github.com/ersinaksar/Make-Your-Jarvis-usin-GPT-3-and-Python)
 [linkedin]: https://www.linkedin.com/ersinaksar "LinkedIn"
 [buymeacoffee]: https://www.buymeacoffee.com/in/ersinaksar "buymeacoffee"
 [Medium]: https://medium.com/@ersinaksar "Medium"
-
+[Patreon]: https://www.buymeacoffee.com/ersinaksar "Patreon"
 
 
 
