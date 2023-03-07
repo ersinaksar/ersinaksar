@@ -15,7 +15,7 @@ You can check my NFT mint site.
 -->
 
 
-- :office: &nbsp;I'm currently working at **Orema**
+- :office: &nbsp;I'm currently working at **Home**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** **Python** **Flutter** **SmartContracts** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
