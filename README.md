@@ -31,6 +31,9 @@ You can check my NFT mint site.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Make-Your-Jarvis-usin-GPT-3-and-Python&layout=compact&theme=tokyonight)](
 https://github.com/ersinaksar/Make-Your-Jarvis-usin-GPT-3-and-Python)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=flutter-blueprints&layout=compact&theme=tokyonight)](
+https://github.com/ersinaksar/flutter-blueprints)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Debian-Contents-Statistics&layout=compact&theme=tokyonight)](
 https://github.com/ersinaksar/Debian-Contents-Statistics)
 
@@ -39,6 +42,8 @@ https://github.com/ersinaksar/Dockerized-Firefox-for-Web-Scraping)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Learning-Rust&layout=compact&theme=tokyonight)](
 https://github.com/ersinaksar/Learning-Rust)
+
+
 
 
 
