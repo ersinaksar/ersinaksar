@@ -173,7 +173,7 @@ https://github.com/ersinaksar/Learning-Rust)
 </table>
 
 [linkedin]: https://www.linkedin.com/ersinaksar "LinkedIn"
-[Final Year Project]: http://uzalcbs.org/wp-content/uploads/bildiriler/2018/2018_6439.pdf "FinalYearProject"
+[FinalYearProject]: http://uzalcbs.org/wp-content/uploads/bildiriler/2018/2018_6439.pdf "FinalYearProject"
 [buymeacoffee]: https://www.buymeacoffee.com/in/ersinaksar "buymeacoffee"
 [Medium]: https://medium.com/@ersinaksar "Medium"
 [Patreon]: https://www.buymeacoffee.com/ersinaksar "Patreon"
