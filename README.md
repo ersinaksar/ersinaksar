@@ -19,6 +19,8 @@ You can check my NFT mint site.
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** **Python** **Flutter** **SmartContracts** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :airplane: Final Year Project: INVESTIGATION OF THE EFFECTS OF WING DESIGN ON FLIGHT TIME,
+MANEUVERABILITY AND VELOCITY (VSTALL) IN FIXED WING UAV **[FinalYearProject]**
 - 📔 You can reach the **[Medium]** articles here
 - :beer: support me **[Patreon]**
 - :coffee: support me **[buymeacoffee]** 
@@ -171,6 +173,7 @@ https://github.com/ersinaksar/Learning-Rust)
 </table>
 
 [linkedin]: https://www.linkedin.com/ersinaksar "LinkedIn"
+[Final Year Project]: http://uzalcbs.org/wp-content/uploads/bildiriler/2018/2018_6439.pdf "FinalYearProject"
 [buymeacoffee]: https://www.buymeacoffee.com/in/ersinaksar "buymeacoffee"
 [Medium]: https://medium.com/@ersinaksar "Medium"
 [Patreon]: https://www.buymeacoffee.com/ersinaksar "Patreon"
