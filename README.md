@@ -176,7 +176,7 @@ https://github.com/ersinaksar/Learning-Rust)
 [FinalYearProject]: http://uzalcbs.org/wp-content/uploads/bildiriler/2018/2018_6439.pdf "FinalYearProject"
 [buymeacoffee]: https://www.buymeacoffee.com/in/ersinaksar "buymeacoffee"
 [Medium]: https://medium.com/@ersinaksar "Medium"
-[Patreon]: https://www.buymeacoffee.com/ersinaksar "Patreon"
+[Patreon]: https://www.patreon.com/c/ersinaksar "Patreon"
 
 
 
