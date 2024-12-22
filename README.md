@@ -5,6 +5,7 @@ You can check my NFT mint site.
 - http://metadonnee.info/
 - https://jurassicfriendsnft.netlify.app/
 -->
+- https://promptpix.art/
 - https://jurassicfriendsnft.com/
 
 
