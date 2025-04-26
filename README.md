@@ -1,200 +1,73 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Ersin Akşar 👋</h1>
+<h3 align="center">Founder of Codemind Labs | AI-enhanced Software Developer | Backend & Data Systems Expert</h3>
 
-You can check my NFT mint site.
-<!--
-- http://metadonnee.info/
-- https://jurassicfriendsnft.netlify.app/
--->
-- https://promptpix.art/
-- https://jurassicfriendsnft.com/
+<p align="center">
+  <a href="https://github.com/ersinaksar" target="_blank">GitHub</a> •
+  <a href="https://www.upwork.com/agencies/1915717354727224631/" target="_blank">Upwork Agency</a> •
+  <a href="https://www.upwork.com/freelancers/ersinaksar?mp_source=share" target="_blank">Upwork Freelancer</a> •
+  <a href="https://www.linkedin.com/in/ersinaksar/" target="_blank">LinkedIn</a> •
+  <a href="https://ersinaksar.github.io/" target="_blank">Portfolio Website</a> •
+  <a href="https://www.udemy.com/course/python-ornekleri/?referralCode=1F7234B1F56ED31C7AA3" target="_blank">Udemy Course</a> •
+  <a href="https://medium.com/@ersinaksar" target="_blank">Medium Articles</a> •
+  <a href="https://stackoverflow.com/users/10723329/ersin-ak%C5%9Far" target="_blank">Stack Overflow</a>
+</p>
 
+---
 
-<!--
+### 🚀 About Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 🔥 Founder of **Codemind Labs**, focused on AI-driven software development, Flutter mobile apps, and backend systems.
+- 🧠 Passionate about AI, machine learning, scalable backend architectures, and cloud solutions.
+- 🚀 Building innovative tools for developers, startups, and enterprise clients.
+- 🌍 Working globally with businesses through Upwork and direct partnerships.
 
--->
+---
 
+### 🛠️ Technologies & Tools
 
-- :office: &nbsp;I'm currently working at **Home**
-- :speech_balloon: &nbsp;I like to talk about **Web 3.0** **Python** **Flutter** **SmartContracts** and **JavaScript**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :airplane: Final Year Project: INVESTIGATION OF THE EFFECTS OF WING DESIGN ON FLIGHT TIME,
-MANEUVERABILITY AND VELOCITY (VSTALL) IN FIXED WING UAV **[FinalYearProject]**
-- 📔 You can reach the **[Medium]** articles here
-- :beer: support me **[Patreon]**
-- :coffee: support me **[buymeacoffee]** 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
+---
 
+### 📂 Selected Projects
 
+- 🔹 [AIStack](https://github.com/ersinaksar/AIStack) — Integration of AI models and pipelines.
+- 🔹 [Flutter Architecture Hub](https://github.com/ersinaksar/flutter_architecture_hub) — Scalable and modular Flutter app templates.
+- 🔹 [LangChain-Streamlit-RAG](https://github.com/ersinaksar/LangChain-Streamlit-RAG) — Retrieval Augmented Generation example with LangChain.
+- 🔹 [Weather Forecast API](https://github.com/ersinaksar/Weather-Forecast-API) — Public API for weather forecast data.
+- 🔹 [Prompt Image App](https://github.com/ersinaksar/prompt-image-app) — AI-powered text-to-image generation tool.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersinaksar&layout=compact&theme=tokyonight)](https://github.com/ersinaksar/github-readme-stats)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Make-Your-Jarvis-usin-GPT-3-and-Python&layout=compact&theme=tokyonight)](
-https://github.com/ersinaksar/Make-Your-Jarvis-usin-GPT-3-and-Python)
+### 🧩 Freelance & Professional Work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=flutter-blueprints&layout=compact&theme=tokyonight)](
-https://github.com/ersinaksar/flutter-blueprints)
+- 🔹 Developed an AI-based health and wellness application for US startups. (Details under NDA)
+- 🔹 Built backend microservices architecture for EV charging management platforms. (Confidential Project)
+- 🔹 Delivered a real-time event notification mobile app using Flutter, Firebase, and GCP.
+- 🔹 Designed and deployed large-scale data engineering pipelines (ETL, ML) with Databricks and PySpark.
+- 🔹 Built backend APIs for LLM-based SaaS products using FastAPI and Django.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Debian-Contents-Statistics&layout=compact&theme=tokyonight)](
-https://github.com/ersinaksar/Debian-Contents-Statistics)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Dockerized-Firefox-for-Web-Scraping&layout=compact&theme=tokyonight)](
-https://github.com/ersinaksar/Dockerized-Firefox-for-Web-Scraping)
+### 🌍 Let's Connect!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ersinaksar&repo=Learning-Rust&layout=compact&theme=tokyonight)](
-https://github.com/ersinaksar/Learning-Rust)
+- 📧 Email: [ersinaksarbm@gmail.com](mailto:ersinaksarbm@gmail.com)
+- 💼 Agency Upwork: [Codemind Labs](https://www.upwork.com/agencies/1915717354727224631/)
+- 🧑‍💻 Personal Upwork: [Ersin Akşar Freelancer Profile](https://www.upwork.com/freelancers/ersinaksar?mp_source=share)
+- 🌐 Portfolio Website: [ersinaksar.github.io](https://ersinaksar.github.io/)
+- 📚 Udemy Course: [Learn Python through Practical Examples](https://www.udemy.com/course/python-ornekleri/?referralCode=1F7234B1F56ED31C7AA3)
+- ✍️ Medium Articles: [@ersinaksar](https://medium.com/@ersinaksar)
+- 📈 Stack Overflow: [Ersin Akşar](https://stackoverflow.com/users/10723329/ersin-ak%C5%9Far)
 
-
-
-
-
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech">
-        <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQF1e9hb-N_bXA/company-logo_200_200/0/1652722609629?e=2147483647&v=beta&t=TXvt6hFEPWKtpmUnYkbMR8KpukKBck4OrfOK8KkLYnc" width="48" height="48" alt="Moralis" />
-      </a>
-      <br>Moralis
-    </td>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsf10q0p26N1sAm_aDD7emQJ3mST4i3Hzsbh7Y-dr&s" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-        <a href="#ersinaksar-tech">
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-        </a>
-        <br>Django
-      </td>
-  </tr>
-    <tr>
-      <td align="center" width="96"> 
-        <a href="#ersinaksar-tech" >
-          <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
-        </a>
-        <br>C Lang
-      </td>
-      <td align="center" width="96">
-        <a href="#ersinaksar-tech" >
-          <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-        </a>
-        <br>Linux
-      </td>
-      <td align="center" width="96"> 
-        <a href="#ersinaksar-tech" >
-          <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-        </a>
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <a href="#ersinaksar-tech">
-          <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-        </a>
-        <br>React JS
-      </td>
-      <td align="center" width="96">
-        <a href="#ersinaksar-tech">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="#ersinaksar-tech">
-          <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-        </a>
-        <br>Bash
-      </td>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Raspberry_Pi_Logo.svg/100px-Raspberry_Pi_Logo.svg.png" width="48" height="48" alt="RaspberryPi" />
-      </a>
-      <br>RaspberryPi
-    </td>
-    <td align="center" width="96">
-      <a href="#ersinaksar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/100px-Arduino_Logo.svg.png" width="48" height="48" alt="Arduino" />
-      </a>
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-        <a href="#ersinaksar-tech">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-        </a>
-        <br>Tensorflow
-      </td>   
-    
-    
-    
-  </tr>
-  
-</table>
-
-[linkedin]: https://www.linkedin.com/ersinaksar "LinkedIn"
-[FinalYearProject]: http://uzalcbs.org/wp-content/uploads/bildiriler/2018/2018_6439.pdf "FinalYearProject"
-[buymeacoffee]: https://www.buymeacoffee.com/in/ersinaksar "buymeacoffee"
-[Medium]: https://medium.com/@ersinaksar "Medium"
-[Patreon]: https://www.patreon.com/c/ersinaksar "Patreon"
-
-
-
-
-
-
-<!--
-**ersinaksar/ersinaksar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
