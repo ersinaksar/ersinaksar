@@ -3,10 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/ersinaksar" target="_blank">GitHub</a> •
-  <a href="https://www.upwork.com/agencies/1915717354727224631/" target="_blank">Upwork Agency</a> •
   <a href="https://www.upwork.com/freelancers/ersinaksar?mp_source=share" target="_blank">Upwork Freelancer</a> •
   <a href="https://www.linkedin.com/in/ersinaksar/" target="_blank">LinkedIn</a> •
-  <a href="https://ersinaksar.github.io/" target="_blank">Portfolio Website</a> •
+  <a href="https://ersinaksar.com/" target="_blank">Portfolio Website</a> •
   <a href="https://www.udemy.com/course/python-ornekleri/?referralCode=1F7234B1F56ED31C7AA3" target="_blank">Udemy Course</a> •
   <a href="https://medium.com/@ersinaksar" target="_blank">Medium Articles</a> •
   <a href="https://stackoverflow.com/users/10723329/ersin-ak%C5%9Far" target="_blank">Stack Overflow</a>
