@@ -62,9 +62,8 @@
 ### 🌍 Let's Connect!
 
 - 📧 Email: [ersinaksarbm@gmail.com](mailto:ersinaksarbm@gmail.com)
-- 💼 Agency Upwork: [Codemind Labs](https://www.upwork.com/agencies/1915717354727224631/)
 - 🧑‍💻 Personal Upwork: [Ersin Akşar Freelancer Profile](https://www.upwork.com/freelancers/ersinaksar?mp_source=share)
-- 🌐 Portfolio Website: [ersinaksar.github.io](https://ersinaksar.github.io/)
+- 🌐 Portfolio Website: [ersinaksar.github.io](https://ersinaksar.com/)
 - 📚 Udemy Course: [Learn Python through Practical Examples](https://www.udemy.com/course/python-ornekleri/?referralCode=1F7234B1F56ED31C7AA3)
 - ✍️ Medium Articles: [@ersinaksar](https://medium.com/@ersinaksar)
 - 📈 Stack Overflow: [Ersin Akşar](https://stackoverflow.com/users/10723329/ersin-ak%C5%9Far)
